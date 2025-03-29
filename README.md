@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a computer science student with a passion for programming, especially in C++ and Python. I love playing video games and learning about new technologies.
+
 <!--
 **karabiberym/karabiberym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
